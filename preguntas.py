@@ -7,8 +7,7 @@ En este laboratio se construirÃ¡ un modelo de regresiÃ³n lineal univariado.
 """
 import numpy as np
 import pandas as pd
-import sys
-import preguntas
+
 
 
 def pregunta_01():
